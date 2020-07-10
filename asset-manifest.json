@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/sijiide/static/js/main.62997b65.chunk.js",
+    "main.js.map": "/sijiide/static/js/main.62997b65.chunk.js.map",
+    "runtime-main.js": "/sijiide/static/js/runtime-main.a23fe33a.js",
+    "runtime-main.js.map": "/sijiide/static/js/runtime-main.a23fe33a.js.map",
+    "static/css/2.5eaa5b7c.chunk.css": "/sijiide/static/css/2.5eaa5b7c.chunk.css",
+    "static/js/2.9436b107.chunk.js": "/sijiide/static/js/2.9436b107.chunk.js",
+    "static/js/2.9436b107.chunk.js.map": "/sijiide/static/js/2.9436b107.chunk.js.map",
+    "index.html": "/sijiide/index.html",
+    "precache-manifest.a7ab2f342515cce134e3b17629f7269e.js": "/sijiide/precache-manifest.a7ab2f342515cce134e3b17629f7269e.js",
+    "service-worker.js": "/sijiide/service-worker.js",
+    "static/css/2.5eaa5b7c.chunk.css.map": "/sijiide/static/css/2.5eaa5b7c.chunk.css.map",
+    "static/media/computer.jpg": "/sijiide/static/media/computer.bccc802c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a23fe33a.js",
+    "static/css/2.5eaa5b7c.chunk.css",
+    "static/js/2.9436b107.chunk.js",
+    "static/js/main.62997b65.chunk.js"
+  ]
+}
